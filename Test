@@ -1,0 +1,30 @@
+# Tặng Crush
+## _Một điều nho nhỏ tỏ tình với crush_
+
+Liên lạc: 
+[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
+[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
+
+Mở file config.js sửa nội dung theo mẫu
+```
+const CONFIG = {
+    introTitle: 'Các chị à!',
+    introDesc: `Mắt em nhoà đi mascara
+    Em trách chị không đi đến nơi gọi là nhà
+    Dù vạn ngày cũng chẳng để lại gì
+    Tim mình thầm thì`,
+    btnIntro: 'hihi',
+    title: 'Mình còn lại gì ngoài cuộc gọi hai giờ đêm',
+    desc: 'Mình còn lại gì ngoài ngày dường như dài thêm (dài thêm) ',
+    btnYes: 'Nụ cười mà ta vô tình bỏ lại trên môi em sớm mai giờ xa khuất',
+    btnNo: 'Mình còn lại gì ngoài ngàn lời yêu đã trao (đã trao)',
+    question:'Mình còn lại gì ngoài tình đã phai từ hôm nào',
+    btnReply: 'Em đi cùng đêm tàn mờ sương khói',
+    reply: 'Câu tạm biệt em nói trên môi',
+    mess: 'Anh biết đây là đêm cuối ta say mà thôi',
+    messDesc: 'Mình còn lại gì ngoài ngàn lời yêu đã trao',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
+```
+
